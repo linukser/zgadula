@@ -1,0 +1,13 @@
+name: zgadula
+version: 0.1.0
+
+authors:
+  - Marek Janik <linukser@gmail.com>
+
+targets:
+  zgadula:
+    main: src/zgadula.cr
+
+crystal: '>= 1.11.2'
+
+license: MIT
